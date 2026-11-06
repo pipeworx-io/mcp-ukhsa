@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ukhsa",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "UK Health Security Agency (UKHSA) data dashboard MCP — keyless.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ukhsa",
     "gatewaySlug": "ukhsa",
-    "sourceHash": "v1-02c41075768f58c184fd928e98527498c3ca0ecc252481d7ebaf5b73975ac222",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-bd49082530ddd37f1d11a596ec1875e38cf0a8b78568ae1377ada6dd14f2ca61",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
